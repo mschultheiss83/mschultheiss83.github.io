@@ -5,9 +5,6 @@ title: Martin Schultheiß Blog
 layout: default
 
 ---
-# 👋 Hi, I’m @mschultheiss83
-
-  - [github.com/mschultheiss83](https://github.com/mschultheiss83)
 
 ## My Blog List
 
@@ -15,7 +12,9 @@ layout: default
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+      <!-- Code removed for brevity -->
+      {% assign excerptParts = post.excerpt | split: "<!-- excerpt-start -->" %}
+      {{ excerptParts[1] | strip_newlines | truncatewords: 100 }}
     </li>
   {% endfor %}
 </ul>

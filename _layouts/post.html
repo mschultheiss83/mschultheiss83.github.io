@@ -10,7 +10,13 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    <p>Written with {{ page.ai[0] }} on {{ page.ai[1] | date: "%B %e, %Y" }}</p>
   </div>
 
+  <div class="tags">
+    Tags:
+    {% for tag in page.tags %}
+    <a href="/tags.html#{{ tag }}">{{ tag }}</a>
+    {% endfor %}
+  </div>
 </article>
