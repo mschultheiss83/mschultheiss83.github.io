@@ -3,9 +3,21 @@
 
 @import "jekyll-theme-midnight";
 
+.header {
+  position: sticky;
+}
+
 .footer {
   text-align: center;
 }
+
 .wrapper {
   margin: 64px auto 0 auto;
+}
+
+section h1,
+section h2,
+section h3,
+section h4 {
+  scroll-margin-top: 70px;
 }

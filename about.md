@@ -6,8 +6,8 @@ permalink: /about.html
 
 # Über mich
 
-Willkommen auf meiner "Über mich"-Seite! Ich bin Martin Schultheiss, Ehemann, Vater und Unternehmer aus Bayern, Deutschland. Meine Leidenschaften sind Technologie, Gartenbau und die Zeit mit meiner Familie.
-Ich bin ein Hacker aus Bayern, seit 1998 digital unterwegs – mit und ohne KI. Als Familienmensch mache ich, was zählt: für Hof, Garten und die Zukunft meiner Liebsten. Mit einem Diplom in Mathematik (FH) habe ich eine solide Basis, die ich in über 25 Jahren digitaler Erfahrung ausgebaut habe.
+Willkommen auf meiner "Über mich"-Seite! Ich bin Martin Schultheiß, Ehemann, Vater und Unternehmer aus Bayern, Deutschland. Meine Leidenschaften sind Technologie, Gartenbau und die Zeit mit meiner Familie.
+Ich bin ein Hacker aus Bayern, seit 1998 digital unterwegs – ohne und mit KI. Als Familienmensch mache ich, was zählt: für Hof, Garten und die Zukunft meiner Liebsten. Mit einem Diplom in Mathematik (FH) habe ich eine solide Basis, die ich in über 25 Jahren digitaler Erfahrung ausgebaut habe.
 Ich komme aus Bayern und bin ein Macher – ob digital oder analog, Hauptsache, es kommt der Familie zugute. Meine Reise führte mich von Agenturen wie *tripuls gmbh* über die Selbstständigkeit bei *global-machanics gmbh* bis hin zur Unterstützung von *Paprikaland*, dem Webshop meiner Eltern ([shop.paprikaland.de](https://shop.paprikaland.de)).
 Ich interessiere mich für Softwareentwicklung, insbesondere in den Bereichen Bot-Entwicklung und Kryptowährungshandel.
 Aktuell beschäftige ich mich mit KI-Forschung, etwa in Preisbeobachtung, Automatismus und automatischer Content-Generierung. Mehr dazu gibt’s bald in meinen Posts!
@@ -45,16 +45,17 @@ Ich glaube an lebenslanges Lernen und suche ständig nach Wegen, mein Wissen zu 
 
 Besonders fasziniert mich das Potenzial von KI, unser Leben zu verändern, sei es durch personalisiertes Lernen oder effizientes Ressourcenmanagement. Ich bin gespannt, wie sich diese Technologie weiterentwickeln wird.
 
-## Kontakt
-
 Meine technischen Interessen umfassen:
 
-- **Bot-Entwicklung:** Ich habe ein starkes Interesse an der Entwicklung von Bots, was sich in meinem Fork des `screeps`-Projekts zeigt [1], einem Bot für das Spiel Screeps, der in JavaScript geschrieben ist [1].
-- **Kryptowährungshandel:** Ich bin aktiv im Bereich des Kryptowährungshandels tätig und engagiere mich im Open-Source-Projekt `freqtrade` [1], einem kostenlosen Krypto-Trading-Bot, der in Python entwickelt wurde [1]. Meine Beteiligung zeigt sich auch in meiner aktiven Teilnahme im Issue-Tracker des Projekts [2], wo ich beispielsweise ein Docker-bezogenes Problem gemeldet und gelöst habe [2].
-- **Webentwicklung:** Ich habe Erfahrung mit Node.js und der Verarbeitung von JSON-Daten, wie mein Gist `jsonLoad.md` zeigt [3].
-- **Mapping-Tools:** Ich interessiere mich für Mapping-Tools, was mein Fork des `pathfinder`-Projekts für EVE Online verdeutlicht [4].
+- **Bot-Entwicklung:** Ich habe ein starkes Interesse an der Entwicklung von Bots, was sich in meinem Fork des `screeps`-Projekts zeigt, einem Bot für das Spiel Screeps, der in JavaScript geschrieben ist.
+- **Kryptowährungshandel:** Ich bin aktiv im Bereich des Kryptowährungshandels tätig und engagiere mich im Open-Source-Projekt `freqtrade`, einem kostenlosen Krypto-Trading-Bot, der in Python entwickelt wurde. Meine Beteiligung zeigt sich auch in meiner aktiven Teilnahme im Issue-Tracker des Projekts, wo ich beispielsweise ein Docker-bezogenes Problem gemeldet und gelöst habe.
+- **Webentwicklung:** Ich habe Erfahrung mit Node.js und der Verarbeitung von JSON-Daten, wie mein Gist `jsonLoad.md` zeigt.
+- **Mapping-Tools:** Ich interessiere mich für Mapping-Tools, was mein Fork des `pathfinder`-Projekts für EVE Online verdeutlicht.
 
-Schau gerne bei meinen Projekten auf [GitHub](https://github.com/mschultheiss83) vorbei oder verbinde dich mit mir auf [X](https://x.com/SchultheiMartin)!
+## Kontakt
+
+Schau gerne bei meinen Projekten auf [GitHub](https://github.com/mschultheiss83) vorbei oder verbinde dich mit mir auf [X](https://x.com/SchultheiMartin) oder [linkedin](https://www.linkedin.com/in/martin-schulthei%C3%9F-814870265/) !
+
 
 
 
