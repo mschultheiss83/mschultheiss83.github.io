@@ -1,6 +1,7 @@
 <div id="post-navi">
     <ul>
-        {% for post in site.posts %}
+        {% assign sitePosts = site.posts | slice:0, 5  %}
+        {% for post in sitePosts %}
         <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
