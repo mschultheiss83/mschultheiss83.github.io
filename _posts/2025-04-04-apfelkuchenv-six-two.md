@@ -3,9 +3,9 @@
 title: Ein Apfelkuchen für Papa: Eine Geburtstagsüberraschung
 date: 2025-04-04 14:15:35 +0000
 categories: familie backen
-tags: [apfelkuchen, geburtstag, überraschung, lucullus, backen mit liebe]
+tags: [apfelkuchen, geburtstag, ueberraschung, lucullus, backen, liebe]
 ai: [gemini-pro, 2025-04-04]
-version: 0.6.1
+version: 0.6.2
 ---
 
 # Ein Apfelkuchen für Papa: Eine Geburtstagsüberraschung

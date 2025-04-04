@@ -1,12 +1,17 @@
 ﻿---
 # Draft: Ein Apfelkuchen für Papa
+layout: post
 title: Ein Apfelkuchen für Papa: Eine Geburtstagsüberraschung
 date: 2025-04-04 14:15:35 +0000
 categories: familie backen
-tags: [apfelkuchen, geburtstag, überraschung, lucullus, backen mit liebe]
+tags: [apfelkuchen, geburtstag, ueberraschung, lucullus, backen, liebe]
 ai: [gemini-pro, 2025-04-04]
 version: 0.6.1
 ---
+
+<!-- excerpt-start -->
+Mein Vater, Geburtstage und ein Apfelkuchen 
+<!-- excerpt-end -->
 
 # Ein Apfelkuchen für Papa: Eine Geburtstagsüberraschung
 ## Geschichte
