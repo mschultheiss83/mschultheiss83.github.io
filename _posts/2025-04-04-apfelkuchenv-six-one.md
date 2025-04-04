@@ -10,7 +10,7 @@ version: 0.6.1
 ---
 
 <!-- excerpt-start -->
-Mein Vater, Geburtstage und ein Apfelkuchen 
+Mein Vater, Geburtstage und ein Apfelkuchen, eine kurze Geschichte {{ page.version }}
 <!-- excerpt-end -->
 
 # Ein Apfelkuchen für Papa: Eine Geburtstagsüberraschung

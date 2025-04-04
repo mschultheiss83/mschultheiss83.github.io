@@ -9,6 +9,9 @@ ai: ChatGPT (GPT-4 + o3-mini), 2025-04-04
 version: 0.6.3
 ---
 
+<!-- excerpt-start -->
+Mein Vater, Geburtstage und ein Apfelkuchen, eine kurze Geschichte {{ page.version }}
+<!-- excerpt-end -->
 
 # Ein Apfelkuchen für Papa: Eine Geburtstagsüberraschung
 ## Geschichte

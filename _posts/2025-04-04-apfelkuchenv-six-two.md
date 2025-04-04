@@ -7,6 +7,9 @@ tags: [apfelkuchen, geburtstag, ueberraschung, lucullus, backen, liebe]
 ai: [gemini-pro, 2025-04-04]
 version: 0.6.2
 ---
+<!-- excerpt-start -->
+Mein Vater, Geburtstage und ein Apfelkuchen, eine kurze Geschichte {{ page.version }}
+<!-- excerpt-end -->
 
 # Ein Apfelkuchen für Papa: Eine Geburtstagsüberraschung
 ## Geschichte
