@@ -1,7 +1,7 @@
 ﻿---
 # Draft: apfelkuchen
 layout: post
-title: Ein unvergesslicher Geburtstagszauber: Der Apfelkuchen, der Herzen erwärmt
+title: Ein unvergesslicher Geburtstagszauber Der Apfelkuchen, der Herzen erwärmt
 date: 2025-04-04 14:15:35 +0000
 categories: familie rezepte tradition
 tags: [apfelkuchen, geburtstag, ueberraschung, lucullus, backen, liebe]
