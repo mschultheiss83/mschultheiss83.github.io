@@ -11,6 +11,7 @@ let's talk about
 - [my blog](./blog.html).
 - [more about me](./about.html).
 
+---
 
 this should be on the right side
 
