@@ -5,6 +5,7 @@ date: 2025-03-26 12:00:00 +0100
 categories: web
 tags: [webentwicklung, karriere, technologie, ki, selbstständigkeit]
 ai: [grok3, 2025-03-26]
+version: 0.1.0
 ---
 
 <!-- excerpt-start -->
