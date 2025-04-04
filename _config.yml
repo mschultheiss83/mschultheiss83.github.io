@@ -21,8 +21,7 @@
 title: Martin Schultheiß
 email: mschultheiss83 at mschultheiss83.net
 description: >- # this means to ignore newlines until "baseurl:"
-  mschultheiss83, Ehemann, Vater und Unternehmer. paprikaland tripuls multilevelstudios. kinder eltern familie.
-  It will appear in your document head meta (for Google search results) and in your **feed.xml** site description.
+  mschultheiss83, Ehemann, Vater, Unternehmer. paprikaland tripuls multilevelstudios. kinder eltern familie
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:categories/:year/:title:output_ext
 
