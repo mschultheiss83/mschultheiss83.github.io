@@ -38,7 +38,7 @@ excerpt_separator: <!-- excerpt-end -->
 
 show_downloads: false
 
-google_analytics:
+#google_analytics:
 
 # Build settings
 theme: jekyll-theme-midnight
