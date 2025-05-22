@@ -1,5 +1,4 @@
 ﻿---
-# Draft: Ein Apfelkuchen für Papa
 title: Ein ungarischer Apfelkuchen für Papa, eine Geburtstagsüberraschung
 date: 2025-04-04 14:15:35 +0000
 categories: familie backen
@@ -11,8 +10,8 @@ version: 0.6.2
 Mein Vater, Geburtstage und ein Apfelkuchen, eine kleine Geschichte {{ page.version }}
 <!-- excerpt-end -->
 
-# Ein Apfelkuchen für Papa: Eine Geburtstagsüberraschung
-## Geschichte
+## Ein Apfelkuchen für Papa: Eine Geburtstagsüberraschung
+### Geschichte
 
 Papa hatte Geburtstag, und wir wollten den Tag besonders machen. Es war der 3. April 2025, noch etwas kühl, wie es im frühen Frühling so ist. Die Sonne schien aber hell, und man spürte, wie die Natur langsam aufwachte. Die Luft roch frisch und ein bisschen nach Erde, und die ersten Knospen zeigten sich an den Bäumen. Die große Familienfeier hatten wir für den Sommer geplant, wenn es warm genug ist, um im Garten zu grillen. Aber Papas Geburtstag selbst sollte nicht ohne eine kleine Überraschung vergehen.
 
@@ -30,7 +29,7 @@ Anna strahlte vor Erleichterung und Freude. Sie hatte nicht nur einen tollen Kuc
 
 Am Abend saßen wir im Wohnzimmer, Kerzen flackerten auf dem Tisch, und alles fühlte sich warm und gemütlich an. Papa war rundum glücklich und bedankte sich nochmal bei Anna. „Dieser Kuchen hat meinen Geburtstag perfekt gemacht“, sagte er leise. „Nicht nur, weil er so lecker war, sondern weil er mich an meine Mutter und meine Kindheit erinnert hat. Das ist unbezahlbar.“ Für Anna und mich war es das größte Geschenk, ihn so glücklich zu sehen. Der Kuchen war mehr als nur ein Gebäck – er war ein Zeichen von Liebe, das uns an diesem Tag noch enger zusammenschweißte. Wir freuen uns schon auf die große Sommerfeier, aber dieser kleine Moment mit Annas Apfelkuchen, verfeinert mit dem Lucullus-Gewürz, wird uns immer im Herzen bleiben.
 
-## Rezept von Tante Marika (leicht angepasst)
+### Rezept von Tante Marika (leicht angepasst)
 
 **Zutaten:**
 
@@ -62,7 +61,7 @@ Am Abend saßen wir im Wohnzimmer, Kerzen flackerten auf dem Tisch, und alles f�
 - Kein Rum-Fan? Nimm stattdessen Apfelsaft oder Apfellikör.
 - Frisch schmeckt der Kuchen am besten, hält sich aber ein paar Tage im Kühlschrank. Vor dem Servieren kurz aufwärmen.
 
-## Beispiel Werbung für "Lucullus Almás sütemények sütőpor" auf shop.paprikaland.de
+### Beispiel Werbung für "Lucullus Almás sütemények sütőpor" auf shop.paprikaland.de
 
 ---
 
