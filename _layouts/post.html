@@ -23,12 +23,10 @@ layout: default
     </div>
   </section>
   <section class="tags">
-  
     Tags:
     {% for tag in page.tags %}
-    <a href="/tags.html#{{ tag }}">{{ tag }}</a>
+    <a href="/tags.html#{{ tag }}">{{ tag }}</a>&nbsp;-&nbsp;
     {% endfor %}
-    
   </section>
 </article>
-{% include post-post.html %}
+{% include posts-related.html %}
