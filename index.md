@@ -8,21 +8,6 @@ Hello I'm mschultheiss83
 
 let's talk about
 
-- [my blog](./blog.html).
+- [things i'm interested in](./blog.html).
 - [more about me](./about.html).
 
----
-
-this should be on the right side
-
-  this should be on the right side
-
-    this should be on the right side
-    - this should be on the right side
-    
-    
-this should be on the right side
-  - this should be on the right side
-
-    this should be on the right side
-      - this should be on the right side
