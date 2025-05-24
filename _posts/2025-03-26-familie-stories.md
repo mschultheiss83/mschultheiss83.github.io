@@ -3,7 +3,7 @@ layout: post
 title: "Familie: 1 Frau, 2 Kinder – Stories, die das Leben schreibt"
 date: 2025-03-26 14:00:00 +0100
 categories: familie
-tags: [familie, elternschaft, alltag, bayern, liebe]
+tags: [familie, grok3]
 ai: [grok3, 2025-03-26] 
 version: 0.1.0
 ---

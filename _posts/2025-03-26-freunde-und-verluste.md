@@ -2,8 +2,8 @@
 layout: post
 title: "Freundschaften: Freunde gewinnen, Verluste verkraften"
 date: 2025-03-26 18:00:00 +0100
-categories: leben
-tags: [freundschaften, beziehungen, leben, bayern, ungarn]
+categories: familie
+tags: [familie, grok3]
 ai: [grok3, 2025-03-26] 
 version: 0.1.0
 ---

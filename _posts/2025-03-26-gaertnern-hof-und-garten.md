@@ -2,8 +2,8 @@
 layout: post
 title: "Gärtnern: Ein großer Hof und Garten – was nun?"
 date: 2025-03-26 10:00:00 +0100
-categories: garten
-tags: [garten, natur, diy, familie, bayern, grok3]
+categories: familie
+tags: [familie, grok3]
 ai: [grok3, 2025-03-26] 
 version: 0.1.0
 ---

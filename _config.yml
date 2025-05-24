@@ -37,6 +37,7 @@ lang: "de-DE"
 excerpt_separator: <!-- excerpt-end -->
 
 show_downloads: false
+github: [metadata]
 
 #google_analytics:
 

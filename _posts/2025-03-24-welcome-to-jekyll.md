@@ -2,8 +2,8 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2025-03-24 20:26:57 +0000
-categories: jekyll update
-tags: jekyll
+categories: jekyll 
+tags: [jekyll]
 version: 0.0.0
 ---
 <!-- excerpt-start -->

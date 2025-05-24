@@ -3,7 +3,7 @@ layout: post
 title: "Zusammenleben: Mit den Eltern unter einem Dach"
 date: 2025-03-26 16:00:00 +0100
 categories: familie
-tags: [familie, generationen, zusammenleben, bayern, ungarn]
+tags: [familie, grok3]
 ai: [grok3, 2025-03-26] 
 
 ---

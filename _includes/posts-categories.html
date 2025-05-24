@@ -1,17 +1,20 @@
-{% if site.categories %}
-<h2>Gesamte site.categories Struktur:</h2>
-<pre>{{ site.categories | inspect }}</pre>
-{% endif %}
-<hr>
 {% if site.categories and site.categories != empty %}
-<h2>verwandte Kategorien</h2>
+<h2>Top Kategorien</h2>
 <section class="site.categories">
     <ul>
-        {% for post in site.categories %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_string: "DE" }}</li>
+        {% for posts in site.categories %}
+        <li>
+            <h4>{{ posts[0] }}</h4>
+            <ul>
+                {% for post in posts[1] %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_string: "DE" }}</li>
+                {% endfor %}
+            </ul>
+        </li>
         {% endfor %}
     </ul>
 </section>
 {% else %}
 <p>Keine Kategorien in <code>site.categories</code> gefunden oder die Variable ist leer.</p>
 {% endif %}
+<hr>

@@ -2,8 +2,8 @@
 layout: post
 title: "Web: Bauen, Zerlegen, Debuggen – Mein Weg"
 date: 2025-03-26 12:00:00 +0100
-categories: web
-tags: [webentwicklung, karriere, technologie, ki, selbstständigkeit]
+categories: karriere
+tags: [karriere, grok3]
 ai: [grok3, 2025-03-26]
 version: 0.1.0
 ---

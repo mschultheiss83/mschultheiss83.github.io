@@ -1,8 +1,8 @@
 ﻿---
 title: Ein ungarischer Apfelkuchen für Papa, eine Geburtstagsüberraschung
 date: 2025-04-04 14:15:35 +0000
-categories: familie backen
-tags: [apfelkuchen, geburtstag, ueberraschung, lucullus, backen, liebe]
+categories: familie
+tags: [familie, gemini-pro]
 ai: [gemini-pro, 2025-04-04]
 version: 0.6.2
 ---

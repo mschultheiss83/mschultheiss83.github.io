@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 ![Avatar](https://avatars.githubusercontent.com/u/2712470?v=4&size=256)
