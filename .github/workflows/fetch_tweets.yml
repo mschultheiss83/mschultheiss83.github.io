@@ -1,0 +1,43 @@
+name: Fetch and Update Tweets
+
+on:
+  workflow_dispatch: # Ermöglicht manuelles Auslösen
+  schedule:
+    - cron: '0 0 * * *' # Täglich um Mitternacht UTC ausführen (passe dies bei Bedarf an)
+
+jobs:
+  fetch-tweets:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Wichtig: Erlaubt dem Workflow, Dateien zu committen und zu pushen
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Erforderlich, um den gesamten Verlauf für den Commit zu haben
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: |
+          pip install tweepy requests
+
+      - name: Run Python script to fetch tweets
+        run: python scripts/fetch_tweets.py
+        env:
+          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }} # Übergibt den Secret an das Skript
+
+      - name: Commit and Push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add _data/tweets.json # Füge nur die geänderte Datei hinzu
+          git add _pages/categories/ # Fügen Sie diese Zeile hinzu, um den gesamten Ordner hinzuzufügen
+          # Die Bedingung 'git diff --staged --quiet ||' stellt sicher, dass nur committet wird, wenn es Änderungen gibt.
+          git diff --staged --quiet | git commit -m "Automated: Update X (Twitter) tweets and category pages"
+          # Andernfalls würde der Workflow fehlschlagen, wenn keine neuen Tweets vorhanden sind.
+          git push

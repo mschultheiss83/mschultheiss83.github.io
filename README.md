@@ -1,8 +1,6 @@
 # mschultheiss83.github.io
 mschultheiss83.github.io
 
-
-
 ## local dev
 ### build
   docker-compose up -d --build --force-recreate --remove-orphans
@@ -10,8 +8,13 @@ mschultheiss83.github.io
   http://localhost:4000/
   
 ### use of fabric
-
-
+    
 ```bash
-    Get-Clipboard | fabric /p humanize
+    ## 
+    fabric /p humanize [todo]
+```
+
+### rebuild local test
+```bash
+    docker-compose up -d --build
 ```
