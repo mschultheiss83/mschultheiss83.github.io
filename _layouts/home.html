@@ -8,3 +8,20 @@ layout: default
 <div class="categories">
     {% include posts-categories.html %}
 </div>
+
+<div class="tweets-section">
+    <h2>Aktuelle und relevante Tweets</h2>
+    {% assign relevant_tweets = site.data?.tweets | sort: "public_metrics.like_count" | reverse | limit: 30 %}
+    {% if relevant_tweets.size > 0 %}
+    <div class="tweet-list">
+        {% for tweet in relevant_tweets %}
+        <div class="tweet-item">
+            {{ tweet.html_embed_code }}
+        </div>
+        {% endfor %}
+    </div>
+    {% else %}
+    <p>Derzeit sind keine Tweets verfügbar.</p>
+    {% endif %}
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

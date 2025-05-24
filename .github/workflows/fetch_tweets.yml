@@ -25,10 +25,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Install Python dependencies
-        run: |
-          pip install tweepy requests
-
       - name: Fetch and process Tweets
         run: python Workspace_tweets.py
 
