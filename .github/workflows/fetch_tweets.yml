@@ -1,9 +1,9 @@
 name: Fetch and Update Tweets
 
+
 on:
-  workflow_dispatch: # Ermöglicht manuelles Auslösen
   schedule:
-    - cron: '0 0 * * *' # Täglich um Mitternacht UTC ausführen (passe dies bei Bedarf an)
+    - cron: '0 */6 * * *'  # alle 6 Stunden
 
 jobs:
   fetch-tweets:
@@ -22,9 +22,15 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
       - name: Install Python dependencies
         run: |
           pip install tweepy requests
+
+      - name: Fetch and process Tweets
+        run: python Workspace_tweets.py
 
       - name: Run Python script to fetch tweets
         run: python scripts/fetch_tweets.py
